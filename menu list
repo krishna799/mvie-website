@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>movie magic</title>
+<style>
+body
+{
+background-color:#ff5050;
+}
+</style>
+</head>
+<body>
+<br>
+<ul>
+<li><a href="iwp_proj3.html" target="dis"> theatres</a><br><br></li>
+<li><a href="iwp_proj5.html" target="dis"> register</a><br><br></li>
+<li><a href="iwp_proj6.html" target="dis"> feedback</a><br><br></li>
+<li><a href="about.html" target="dis">about</a><br><br></li>
+</body>
+</html>
+
+
