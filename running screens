@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>movie magic</title>
+<style>
+body
+{
+background-color:;
+}
+div.sam
+{
+margin-top:2%;
+margin-bottom:25%;
+margin-left:25%;
+margin-right:31%;
+background-color:white;
+}
+div.sam1
+{
+border-style:solid;
+margin-top:2%;
+margin-bottom:5%;
+margin-left:25%;
+margin-right:31%;
+background-color:navy;
+}
+h1
+{
+color:yellow;
+}
+</style>
+</head>
+<body background="gow.jpg">
+<div class="sam1">
+<h1>
+<center>
+RUNNING ON SCREEN(VELLORE)
+</center>
+</h1>
+</div>
+<div class="sam">
+<table border=10>
+<tr>
+<td>
+<img src="bah.jpeg">
+</td>
+<td>
+<img src="srim.jpeg">
+</td>
+<td>
+<img src="jun.jpeg">
+</td>
+<td>
+<img src="ht.jpeg">
+</td>
+<td>
+<img src="al.jpeg">
+</td>
+</tr>
+<tr>
+<td>
+<a href="galaxy.html">GALAXY</a>
+</td>
+<td>
+<a href="inox.html">INOX</a>
+</td>
+<td>
+<a href="pvr.html">PVR CINEMAS</a>
+</td>
+<td>
+<a href="pvp.html">PVP MOVIES</a>
+</td>
+<td>
+<a href="padmashri.html">PADMASREE</a>
+</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
