@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>movie magic</title>
+<style>
+ a1.div
+{
+border-style:dashed;
+}
+body
+{
+background-color:navy;
+}
+img
+{
+margin-top:100px;
+margin-left:485px;
+}
+input
+{
+margin-top:30px;
+margin-left:650px;
+}
+table
+{
+border-style:solid;
+background-color:grey;
+margin-top:2%;
+margin-bottom:25%;
+margin-left:50%;
+margin-right:25%;
+}
+</style>
+</head>
+<body>
+<div class="a1">
+<img src="download4.jpeg" align="center">
+</div>
+<br>
+<marquee bgcolor="yellow"><font size="5">CLICK THE BUTTON TO TRAVEL WITH US</font></marquee>
+<br>
+<table>
+<tr>
+<td>
+<a href="iwp_proj.html">click me!</a>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
